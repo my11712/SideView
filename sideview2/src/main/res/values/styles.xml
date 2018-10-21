@@ -1,0 +1,14 @@
+<resources>
+
+
+    <declare-styleable name="sideView">
+        <attr name="text_color" format="color" /><!--侧边栏文字颜色-->
+        <attr name="backgroundColor" format="color" /><!--侧边栏文字颜色-->
+        <attr name="text_size" format="dimension" /><!--侧边栏文字大小-->
+        <attr name="dialog_width" format="dimension" /><!--中间弹出框宽度-->
+        <attr name="dialog_height" format="dimension" /><!--中间弹出框高度-->
+        <attr name="dialog_background" format="color" /><!--中间弹出框背景色-->
+        <attr name="dialog_text_color" format="color" /><!--中间弹出框背景色-->
+    </declare-styleable>
+
+</resources>
